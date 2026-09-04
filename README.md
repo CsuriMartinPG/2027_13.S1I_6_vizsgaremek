@@ -5,8 +5,8 @@ Csoporttagok:
   - Csúri Martin
 
 Dátumok:
-  -Specifikáció: 09.25.
-  -Adatszerkezet: 10.30. (csúszhat)
-  -Algoritmus: 11.06. (csúszhat)
-  -Bemutatás: 01.31.  
-  -KÉSZ: 04.07.
+  - Specifikáció: 09.25.
+  - Adatszerkezet: 10.30. (csúszhat)
+  - Algoritmus: 11.06. (csúszhat)
+  - Bemutatás: 01.31.  
+  - KÉSZ: 04.07.
